@@ -1,0 +1,46 @@
+[
+    {
+        "content":"Orland Park, IL",
+        "coords":{"lat":41.6116,"lng":-87.8543}
+    },
+    {
+        "content":"Orland Park, IL",
+        "coords":{"lat":41.6116,"lng":-87.8543}
+    },
+    {
+        "content":"Fairplay, CO",
+        "coords":{"lat":39.2213,"lng":-105.9922}
+    },
+    {
+        "content":"Zakopane, Poland",
+        "coords":{"lat":49.2992,"lng":19.9496}
+    },
+    {
+        "content":"Sheboygan, WI",
+        "coords":{"lat":43.7508,"lng":-87.7145}
+    },
+    {
+        "content":"Myrtle Beach, SC",
+        "coords":{"lat":33.6891,"lng":-78.8867}
+    },
+    {
+        "content":"Krakow, Poland",
+        "coords":{"lat":50.0647,"lng":19.9450}
+    },
+    {
+        "content":"Gatlinburg, TN",
+        "coords":{"lat":35.7143,"lng":-83.5102}
+    },
+    {
+        "content":"Chicago, IL",
+        "coords":{"lat":41.8781,"lng":-87.6298}
+    },
+    {
+        "content":"Sarasota, FL",
+        "coords":{"lat":27.3364,"lng":-82.5307}
+    },
+    {
+        "content":"Grand Junction, CO",
+        "coords":{"lat":39.0639,"lng":-108.5506}
+    }
+]
